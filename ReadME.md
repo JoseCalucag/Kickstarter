@@ -7,11 +7,15 @@ My client approached me to investigate if there is any correlation with Kickstar
 I was able to get a dataset of Kickstarter-funded campaigns between 2014-2016 to which I filtered for ‘theatre’ campaigns. With this subset, I created two pivot tables by targeting specific areas for each: one looking at “Outcomes Based on Launch Date” and the other “Outcomes Based on Goals”. 
 
 ![Outcomes_vs_Goals](https://raw.githubusercontent.com/JoseCalucag/Kickstarter-Analysis/master/Resources/Outcomes_vs_Goals.png)
+
 ### Analysis of Outcomes Based on Launch Date
+
 For the 'Outcomes Based on Launch Date' worksheet, I wanted to visualize the number of campaigns based on the month it was launched. So, I created a pivot table from using the 'Date Created Conversion' column on the Kickstarter worksheet and sorted them out by the month of the launch date. I further broke down the data by the outcome of the campaign and whether it was a 'successful', 'failed' or 'canceled' campaign. And based upon the created pivot table, I created a line chart to visualize the pivoted data.
 
 ![Theatre_Outcomes_vs_Launch](https://raw.githubusercontent.com/JoseCalucag/Kickstarter-Analysis/master/Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
+
 For the 'Outcomes based on Goals' worksheet, I was able to table campaign data by creating data ranges based on crowdfunded goal amounts then cross referencing each range on whether it was either success, a failure or canceled. Afterwards, I further expanded my analysis by finding the percentages of each total to the total amount of campaigns for each range. I then created a line chart that visualized the data range by their percentages.
 
 ### Challenges and Difficulties Encountered
