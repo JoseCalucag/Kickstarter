@@ -18,9 +18,6 @@ For the 'Outcomes Based on Launch Date' worksheet, I wanted to visualize the num
 
 For the 'Outcomes based on Goals' worksheet, I was able to table campaign data by creating data ranges based on crowdfunded goal amounts then cross referencing each range on whether it was either success, a failure or canceled. Afterwards, I further expanded my analysis by finding the percentages of each total to the total amount of campaigns for each range. I then created a line chart that visualized the data range by their percentages.
 
-### Challenges and Difficulties Encountered
-When it comes to any data project, the main challenge is to know how to leverage the data to achieve a specific outcome. So, 
-
 ## Results
 Based upon my findings, we can pinpoint talking points from these worksheets. First, from the Outcomes Based on Launch Date worksheet, we can see that the majority of the campaigns started in the Spring and throughout the Summer. Moreover, most of the campaigns that were successful were funded at the start of the theatre festival season in May and June. Secondly, from the Outcomes based on Goals, albeit most of the campaigns are under the 10K range, the most successful are mostly under 5K where 141 were under 1K while 188 where between 1K to 5K. To further illustrate, the succesful rate is at 73.5%. What we can hypothesize from this is that a lot of smaller productions (probably from local communities) probably had a good grassroots in their area during the winter-spring; and once festival season started, their was a buzz for some of these productions and got momentum to get funded.
 
