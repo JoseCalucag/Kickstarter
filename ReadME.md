@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-My client approached me to investigate if there is any correlation with Kickstarter-funded theatre campaigns to their launch dates and their funding goals. So, I was hoping to gather some conclusions and data points by leveraging Kickstarter data into tabular charts and visualizations; and be able to hypothesize actionable outcomes from them.
+I did an analysis to see if there is correlation between Kickstarter-funded theatre campaigns to their launch dates and their funding goals. So, by leveraging the data into tabular charts and visualizations, I has hoping to gather some conclusions and be able to hypothesize actionable data points from them.
 
 ## Analysis and Challenges
 I was able to get a dataset of Kickstarter-funded campaigns between 2014-2016 to which I filtered for ‘theatre’ campaigns. With this subset, I created two pivot tables by targeting specific areas for each: one looking at “Outcomes Based on Launch Date” and the other “Outcomes Based on Goals”. 
